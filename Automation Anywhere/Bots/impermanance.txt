@@ -9,5 +9,117 @@
    it was pointing to C:\ProgramData\AutomationAnywhere\GlobalCache\embedded-resources\2.0.4-20200422-175245-1825fd43-19bc-4dd2-ac56-53a2aed4b0e4\AAChromeAgentManifest.json
 
    There was no 11.x intstalled previously in the system
+
+
+      Chrome extension was installed manually (through developer mode )
+   
+   After enabling the extension there was some errors shown in the extension under errors
+   There is no internet on the client system (only LAN)
+   Automation.BrowserAgent.exe was not running even after enabling the extension ( that is the issue)
+   We tried running it manually it was still not starting 
+   
+   We checked the regedit entry Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Chrome\NativeMessagingHosts\automation.chrome.agent
+   it was pointing to C:\ProgramData\AutomationAnywhere\GlobalCache\embedded-resources\2.0.4-20200422-175245-1825fd43-19bc-4dd2-ac56-53a2aed4b0e4\AAChromeAgentManifest.json
+
+   There was no 11.x intstalled previously in the system
+
+      Chrome extension was installed manually (through developer mode )
+   
+   After enabling the extension there was some errors shown in the extension under errors
+   There is no internet on the client system (only LAN)
+   Automation.BrowserAgent.exe was not running even after enabling the extension ( that is the issue)
+   We tried running it manually it was still not starting 
+   
+   We checked the regedit entry Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Chrome\NativeMessagingHosts\automation.chrome.agent
+   it was pointing to C:\ProgramData\AutomationAnywhere\GlobalCache\embedded-resources\2.0.4-20200422-175245-1825fd43-19bc-4dd2-ac56-53a2aed4b0e4\AAChromeAgentManifest.json
+
+   There was no 11.x intstalled previously in the system
+
+
+      Chrome extension was installed manually (through developer mode )
+   
+   After enabling the extension there was some errors shown in the extension under errors
+   There is no internet on the client system (only LAN)
+   Automation.BrowserAgent.exe was not running even after enabling the extension ( that is the issue)
+   We tried running it manually it was still not starting 
+   
+   We checked the regedit entry Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Chrome\NativeMessagingHosts\automation.chrome.agent
+   it was pointing to C:\ProgramData\AutomationAnywhere\GlobalCache\embedded-resources\2.0.4-20200422-175245-1825fd43-19bc-4dd2-ac56-53a2aed4b0e4\AAChromeAgentManifest.json
+
+   There was no 11.x intstalled previously in the system
+
+
+      Chrome extension was installed manually (through developer mode )
+   
+   After enabling the extension there was some errors shown in the extension under errors
+   There is no internet on the client system (only LAN)
+   Automation.BrowserAgent.exe was not running even after enabling the extension ( that is the issue)
+   We tried running it manually it was still not starting 
+   
+   We checked the regedit entry Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Chrome\NativeMessagingHosts\automation.chrome.agent
+   it was pointing to C:\ProgramData\AutomationAnywhere\GlobalCache\embedded-resources\2.0.4-20200422-175245-1825fd43-19bc-4dd2-ac56-53a2aed4b0e4\AAChromeAgentManifest.json
+
+   There was no 11.x intstalled previously in the system
+
+      Chrome extension was installed manually (through developer mode )
+   
+   After enabling the extension there was some errors shown in the extension under errors
+   There is no internet on the client system (only LAN)
+   Automation.BrowserAgent.exe was not running even after enabling the extension ( that is the issue)
+   We tried running it manually it was still not starting 
+   
+   We checked the regedit entry Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Chrome\NativeMessagingHosts\automation.chrome.agent
+   it was pointing to C:\ProgramData\AutomationAnywhere\GlobalCache\embedded-resources\2.0.4-20200422-175245-1825fd43-19bc-4dd2-ac56-53a2aed4b0e4\AAChromeAgentManifest.json
+
+   There was no 11.x intstalled previously in the system
+
+
+      Chrome extension was installed manually (through developer mode )
+   
+   After enabling the extension there was some errors shown in the extension under errors
+   There is no internet on the client system (only LAN)
+   Automation.BrowserAgent.exe was not running even after enabling the extension ( that is the issue)
+   We tried running it manually it was still not starting 
+   
+   We checked the regedit entry Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Chrome\NativeMessagingHosts\automation.chrome.agent
+   it was pointing to C:\ProgramData\AutomationAnywhere\GlobalCache\embedded-resources\2.0.4-20200422-175245-1825fd43-19bc-4dd2-ac56-53a2aed4b0e4\AAChromeAgentManifest.json
+
+   There was no 11.x intstalled previously in the system
+
+      Chrome extension was installed manually (through developer mode )
+   
+   After enabling the extension there was some errors shown in the extension under errors
+   There is no internet on the client system (only LAN)
+   Automation.BrowserAgent.exe was not running even after enabling the extension ( that is the issue)
+   We tried running it manually it was still not starting 
+   
+   We checked the regedit entry Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Chrome\NativeMessagingHosts\automation.chrome.agent
+   it was pointing to C:\ProgramData\AutomationAnywhere\GlobalCache\embedded-resources\2.0.4-20200422-175245-1825fd43-19bc-4dd2-ac56-53a2aed4b0e4\AAChromeAgentManifest.json
+
+   There was no 11.x intstalled previously in the system
+      Chrome extension was installed manually (through developer mode )
+   
+   After enabling the extension there was some errors shown in the extension under errors
+   There is no internet on the client system (only LAN)
+   Automation.BrowserAgent.exe was not running even after enabling the extension ( that is the issue)
+   We tried running it manually it was still not starting 
+   
+   We checked the regedit entry Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Chrome\NativeMessagingHosts\automation.chrome.agent
+   it was pointing to C:\ProgramData\AutomationAnywhere\GlobalCache\embedded-resources\2.0.4-20200422-175245-1825fd43-19bc-4dd2-ac56-53a2aed4b0e4\AAChromeAgentManifest.json
+
+   There was no 11.x intstalled previously in the system
+      Chrome extension was installed manually (through developer mode )
+   
+   After enabling the extension there was some errors shown in the extension under errors
+   There is no internet on the client system (only LAN)
+   Automation.BrowserAgent.exe was not running even after enabling the extension ( that is the issue)
+   We tried running it manually it was still not starting 
+   
+   We checked the regedit entry Computer\HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Chrome\NativeMessagingHosts\automation.chrome.agent
+   it was pointing to C:\ProgramData\AutomationAnywhere\GlobalCache\embedded-resources\2.0.4-20200422-175245-1825fd43-19bc-4dd2-ac56-53a2aed4b0e4\AAChromeAgentManifest.json
+
+   There was no 11.x intstalled previously in the system
+
+   filesize increased
    
 
