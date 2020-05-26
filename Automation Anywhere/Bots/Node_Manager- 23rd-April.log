@@ -1,0 +1,486 @@
+2020-Apr-23 Thu 12:14:25.627 INFO  [main] - com.automationanywhere.nodemanager.Configuration - Loading properties from C:\Program Files\Automation Anywhere\Bot Agent\config\nodemanager.properties
+2020-Apr-23 Thu 12:14:25.627 ERROR [main] - com.automationanywhere.nodemanager.Configuration - Could not load properties from C:\Program Files\Automation Anywhere\Bot Agent\config\nodemanager.properties: C:\Program Files\Automation Anywhere\Bot Agent\config\nodemanager.properties (The system cannot find the file specified)
+2020-Apr-23 Thu 12:14:25.627 DEBUG [main] - com.automationanywhere.nodemanager.Configuration - Working directory C:\Windows\system32\config\systemprofile\AppData\Local 
+2020-Apr-23 Thu 12:14:25.627 DEBUG [main] - com.automationanywhere.nodemanager.Configuration - Successfully loaded property file registration.properties
+2020-Apr-23 Thu 12:14:25.627 DEBUG [main] - com.automationanywhere.nodemanager.Configuration - Working directory C:\Windows\system32\config\systemprofile\AppData\Local 
+2020-Apr-23 Thu 12:14:25.627 DEBUG [main] - com.automationanywhere.nodemanager.Configuration - Working directory C:\Windows\system32\config\systemprofile\AppData\Local 
+2020-Apr-23 Thu 12:14:25.627 DEBUG [RegistrationFileWatcher] - com.automationanywhere.nodemanager.Configuration - RegistrationFileWatcher started
+2020-Apr-23 Thu 12:14:25.940 DEBUG [main] - com.automationanywhere.nodemanager.service.impl.ProxyCredentialServiceImpl - Initializing Proxy cred store
+2020-Apr-23 Thu 12:14:26.127 DEBUG [main] - com.automationanywhere.nodemanager.service.impl.ProxyCredentialServiceImpl - Proxy cred store initialized
+2020-Apr-23 Thu 12:14:26.158 DEBUG [main] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - setting ACLs on global cache directory
+2020-Apr-23 Thu 12:14:26.580 DEBUG [resiliency-manager-ExpiryMapCleanerThread] - com.automationanywhere.collections.ExpiryMap - resiliency-manager-ExpiryMapCleanerThread: Initiating Cleaner Thread..
+2020-Apr-23 Thu 12:14:26.580 INFO  [main] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - registered listener for topic DEPLOYMENT
+2020-Apr-23 Thu 12:14:26.580 INFO  [main] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - registered listener for topic TRIGGER
+2020-Apr-23 Thu 12:14:26.580 INFO  [main] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - registered listener for topic WLM
+2020-Apr-23 Thu 12:14:26.580 INFO  [main] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - registered listener for topic TriggerEvent
+2020-Apr-23 Thu 12:14:26.580 INFO  [main] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - registered listener for topic NodeResponse
+2020-Apr-23 Thu 12:14:26.580 INFO  [main] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - registered listener for topic TriggerStatus
+2020-Apr-23 Thu 12:14:26.580 INFO  [main] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - registered listener for topic WlmEvent
+2020-Apr-23 Thu 12:14:26.612 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - window successfully created! window hwnd: native@0x9630048
+2020-Apr-23 Thu 12:14:26.752 DEBUG [main] - com.automationanywhere.nodemanager.service.impl.ProxyCredentialServiceImpl - Fetching proxy credentials for URL - https://urldefense.com/v3/__http://infocert55783.aaisalesdemo.com__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYINbcdSizQ$  and key - aDh7+guSzSoSs7NAsVYSsLFiTiIh7Asr3Zht3U5DWA=
+2020-Apr-23 Thu 12:14:26.752 DEBUG [main] - com.automationanywhere.nodemanager.service.impl.ProxyCredentialServiceImpl - Fetching proxy credentials succeeded for URL - https://urldefense.com/v3/__http://infocert55783.aaisalesdemo.com__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYINbcdSizQ$ 
+2020-Apr-23 Thu 12:14:26.830 INFO  [main] - org.eclipse.jetty.util.log - Logging initialized @2281ms to org.eclipse.jetty.util.log.Slf4jLog
+2020-Apr-23 Thu 12:14:27.116 WARN  [main] - org.eclipse.jetty.util.ssl.SslContextFactory.config - No Client EndPointIdentificationAlgorithm configured for SslContextFactory@3fd2322d[provider=null,keyStore=null,trustStore=null]
+2020-Apr-23 Thu 12:14:27.150 DEBUG [main] - com.automationanywhere.nodemanager.Configuration - Working directory C:\Windows\system32\config\systemprofile\AppData\Local 
+2020-Apr-23 Thu 12:14:27.152 DEBUG [main] - com.automationanywhere.log.services.Configuration - Loading properties from C:\Program Files\Automation Anywhere\Bot Agent\config\collector.properties
+2020-Apr-23 Thu 12:14:27.153 INFO  [main] - com.automationanywhere.log.services.Configuration - properties file collector.properties not found, using defaults
+2020-Apr-23 Thu 12:14:27.157 INFO  [main] - com.automationanywhere.log.LogForwarderApp - Starting log collector ...
+2020-Apr-23 Thu 12:14:27.166 DEBUG [RegistrationConfigChangeNotifierThread] - com.automationanywhere.nodemanager.RegistrationConfigChangeNotifier - RegistrationConfigChangeNotifierThread starting
+2020-Apr-23 Thu 12:14:27.170 INFO  [ForkJoinPool.commonPool-worker-3] - com.automationanywhere.websocket.client.WebSocketClient - connecting to ws://infocert55783.aaisalesdemo.com/realtimeservice/nodeservice/34... (attempt 0)
+2020-Apr-23 Thu 12:14:27.173 DEBUG [ForkJoinPool.commonPool-worker-3] - com.automationanywhere.nodemanager.Configuration - Working directory C:\Windows\system32\config\systemprofile\AppData\Local 
+2020-Apr-23 Thu 12:14:27.615 DEBUG [main] - com.automationanywhere.nodemanager.service.impl.NamedPipeServiceImpl - Starting NamedPipe Server
+2020-Apr-23 Thu 12:14:27.633 DEBUG [NamedPipeServer] - com.automationanywhere.nodemanager.service.impl.NamedPipeServiceImpl - NamedPipeServer thread starting
+2020-Apr-23 Thu 12:14:27.733 WARN  [Thread-13] - org.eclipse.jetty.server.AbstractConnector - Ignoring deprecated socket close linger time
+2020-Apr-23 Thu 12:14:27.749 INFO  [Thread-13] - spark.embeddedserver.jetty.EmbeddedJettyServer - == Spark has ignited ...
+2020-Apr-23 Thu 12:14:27.749 INFO  [Thread-13] - spark.embeddedserver.jetty.EmbeddedJettyServer - >> Listening on 127.0.0.1:22113
+2020-Apr-23 Thu 12:14:27.752 INFO  [Thread-13] - org.eclipse.jetty.server.Server - jetty-9.4.z-SNAPSHOT; built: 2018-11-14T21:20:31.478Z; git: c4550056e785fb5665914545889f21dc136ad9e6; jvm 11.0.6+10-LTS
+2020-Apr-23 Thu 12:14:27.773 INFO  [Thread-13] - org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2020-Apr-23 Thu 12:14:27.773 INFO  [Thread-13] - org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2020-Apr-23 Thu 12:14:27.774 INFO  [Thread-13] - org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2020-Apr-23 Thu 12:14:27.837 INFO  [Thread-13] - org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@9f4f09a{HTTP/1.1,[http/1.1]}{127.0.0.1:22113}
+2020-Apr-23 Thu 12:14:27.837 INFO  [Thread-13] - org.eclipse.jetty.server.Server - Started @3289ms
+2020-Apr-23 Thu 12:14:27.851 DEBUG [ForkJoinPool.commonPool-worker-3] - com.automationanywhere.nodemanager.service.impl.ProxyCredentialServiceImpl - Fetching proxy credentials for URL - https://urldefense.com/v3/__http://infocert55783.aaisalesdemo.com__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYINbcdSizQ$  and key - aDh7+guSzSoSs7NAsVYSsLFiTiIh7Asr3Zht3U5DWA=
+2020-Apr-23 Thu 12:14:27.852 DEBUG [ForkJoinPool.commonPool-worker-3] - com.automationanywhere.nodemanager.service.impl.ProxyCredentialServiceImpl - Fetching proxy credentials succeeded for URL - https://urldefense.com/v3/__http://infocert55783.aaisalesdemo.com__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYINbcdSizQ$ 
+2020-Apr-23 Thu 12:14:28.262 DEBUG [ForkJoinPool.commonPool-worker-3] - com.automationanywhere.nodemanager.adapter.ControlRoomAdapter - iat:1587636869 exp:1587680069
+2020-Apr-23 Thu 12:14:28.263 DEBUG [ForkJoinPool.commonPool-worker-3] - com.automationanywhere.nodemanager.adapter.ControlRoomAdapter - Acquired new AuthToken
+2020-Apr-23 Thu 12:14:28.286 DEBUG [token-map-ExpiryMapCleanerThread] - com.automationanywhere.collections.ExpiryMap - token-map-ExpiryMapCleanerThread: Initiating Cleaner Thread..
+2020-Apr-23 Thu 12:14:28.430 INFO  [WebSocketClient@1939869193-36] - com.automationanywhere.websocket.client.WebSocketClient - scheduling ping every 10000ms
+2020-Apr-23 Thu 12:14:28.432 DEBUG [WebSocketClient@1939869193-36] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - websocket connected, sending device information
+2020-Apr-23 Thu 12:14:28.522 DEBUG [WebSocketClient@1939869193-36] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - device info: {
+  "deviceInfo": {
+    "hostName": "ip1mvwiasrpa001",
+    "botAgentVersion": "3.3"
+  }
+}
+2020-Apr-23 Thu 12:14:32.512 INFO  [Thread-10] - com.automationanywhere.log.services.Collector - Starting the tail of Bot_Launcher.log from the previous position 16214
+2020-Apr-23 Thu 12:14:32.512 INFO  [Thread-10] - com.automationanywhere.log.services.Collector - Starting the tail of Node_Manager.log from the previous position 25147
+2020-Apr-23 Thu 12:14:32.512 INFO  [Thread-10] - com.automationanywhere.log.services.Collector - Starting the tail of ObjectAccessibilityWrapper.log from the previous position 342397
+2020-Apr-23 Thu 12:14:32.512 INFO  [Thread-10] - com.automationanywhere.log.services.Collector - Starting the tail of ObjectAccessibilityWrapperlog.log from the previous position 0
+2020-Apr-23 Thu 12:14:32.512 WARN  [Thread-25] - com.automationanywhere.log.services.Collector - Node_Manager.log has been rotated !!
+2020-Apr-23 Thu 12:14:40.625 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Disconnected: 4
+2020-Apr-23 Thu 12:14:40.952 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Connected: 5
+2020-Apr-23 Thu 12:14:51.455 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Disconnected: 5
+2020-Apr-23 Thu 12:14:51.776 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Machine Locked: 3
+2020-Apr-23 Thu 12:14:52.267 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Connected: 3
+2020-Apr-23 Thu 12:14:52.387 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Machine Unlocked: 3
+2020-Apr-23 Thu 12:17:20.214 DEBUG [WebSocketClient@1939869193-37] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Received websocket message from CR
+2020-Apr-23 Thu 12:17:20.214 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - schedule automation id: 0
+2020-Apr-23 Thu 12:17:20.229 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.ProxyCredentialServiceImpl - Fetching proxy credentials for URL - https://urldefense.com/v3/__http://infocert55783.aaisalesdemo.com__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYINbcdSizQ$  and key - aDh7+guSzSoSs7NAsVYSsLFiTiIh7Asr3Zht3U5DWA=
+2020-Apr-23 Thu 12:17:20.229 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.ProxyCredentialServiceImpl - Fetching proxy credentials succeeded for URL - https://urldefense.com/v3/__http://infocert55783.aaisalesdemo.com__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYINbcdSizQ$ 
+2020-Apr-23 Thu 12:17:20.245 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ##retrieve content length: deployCommand.getBot().getBot().getDownloadUrl(): https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/repository/files/packaging/Default/551.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIOxXNjwbw$ 
+2020-Apr-23 Thu 12:17:20.245 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ##retrieve content length: deployCommand.getBot().getCommandDependencies(i): https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/packages/artifacts/package/bot-command-file-2.0.0-20200131-090018.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIO5RP8s7A$ 
+2020-Apr-23 Thu 12:17:20.245 INFO  [pool-3-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - retrieving file cache info https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/repository/files/packaging/Default/551.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIOxXNjwbw$ ... (attempt 0)
+2020-Apr-23 Thu 12:17:20.245 INFO  [Thread-28] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - retrieving file cache info https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/packages/artifacts/package/bot-command-file-2.0.0-20200131-090018.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIO5RP8s7A$ ... (attempt 0)
+2020-Apr-23 Thu 12:17:20.339 DEBUG [Thread-28] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ##getContentLength: content length:0, url:https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/packages/artifacts/package/bot-command-file-2.0.0-20200131-090018.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIO5RP8s7A$ 
+2020-Apr-23 Thu 12:17:20.354 INFO  [pool-3-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - Cache removal has been triggered for the file C:\ProgramData\AutomationAnywhere\GlobalCache\hKI6oljhURETjoRUI8jJYDzfc9PUHGN97mAyrzA8ac=\551.jar
+2020-Apr-23 Thu 12:17:20.370 INFO  [pool-3-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - Cached file C:\ProgramData\AutomationAnywhere\GlobalCache\hKI6oljhURETjoRUI8jJYDzfc9PUHGN97mAyrzA8ac=\551.jar Successfully deleted.
+2020-Apr-23 Thu 12:17:20.370 DEBUG [pool-3-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ##getContentLength: content length:1394951, url:https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/repository/files/packaging/Default/551.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIOxXNjwbw$ 
+2020-Apr-23 Thu 12:17:20.370 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - total content length for download: 1394951
+2020-Apr-23 Thu 12:17:20.370 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - Skipping downloads for https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/packages/artifacts/package/bot-command-file-2.0.0-20200131-090018.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIO5RP8s7A$  , as already found in cache
+2020-Apr-23 Thu 12:17:20.370 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - Downloading items 1 from repo
+2020-Apr-23 Thu 12:17:20.386 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - updating progress for deployment 16add82c-637f-4226-b57a-2b97816722e6
+2020-Apr-23 Thu 12:17:20.386 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - updated progress for deployment 16add82c-637f-4226-b57a-2b97816722e6
+2020-Apr-23 Thu 12:17:20.386 INFO  [pool-3-thread-2] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - retrying download https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/repository/files/packaging/Default/551.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIOxXNjwbw$ ... (attempt 0)
+2020-Apr-23 Thu 12:17:20.386 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Received message eventData {
+  id: "16add82c-637f-4226-b57a-2b97816722e6"
+  bot_deployment_stage {
+    stage_total: 3
+    stage_current: 2
+    stage_name: DOWNLOAD_DEPENDENCIES
+    progress_total: 1394951
+  }
+}
+ to send back to CR
+2020-Apr-23 Thu 12:17:20.417 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Message operationEvent {
+  eventData {
+    id: "16add82c-637f-4226-b57a-2b97816722e6"
+    bot_deployment_stage {
+      stage_total: 3
+      stage_current: 2
+      stage_name: DOWNLOAD_DEPENDENCIES
+      progress_total: 1394951
+    }
+  }
+}
+ sent to CR successfully.
+2020-Apr-23 Thu 12:17:20.417 INFO  [pool-12-thread-1] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - Message successfully processed for topic NodeResponse
+2020-Apr-23 Thu 12:17:20.495 INFO  [pool-3-thread-2] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - Content length of the downloading file 1394951
+2020-Apr-23 Thu 12:17:20.495 INFO  [pool-3-thread-2] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - attachment; filename="551.jar"
+2020-Apr-23 Thu 12:17:20.495 DEBUG [pool-3-thread-2] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ##downloadFile: content length: 1394951, url: https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/repository/files/packaging/Default/551.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIOxXNjwbw$ 
+2020-Apr-23 Thu 12:17:20.495 INFO  [pool-3-thread-2] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - fileName = 
+2020-Apr-23 Thu 12:17:20.736 INFO  [pool-3-thread-2] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - File downloaded 551.jar
+2020-Apr-23 Thu 12:17:20.736 DEBUG [pool-3-thread-2] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ETag /Z/HK2RYYF5CZZU075I7YWP6BZGN/CLLFTXW2JMUFLU= for the file 551.jar
+2020-Apr-23 Thu 12:17:20.737 DEBUG [pool-3-thread-2] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - Downloaded file path C:\ProgramData\AutomationAnywhere\GlobalCache\hKI6oljhURETjoRUI8jJYDzfc9PUHGN97mAyrzA8ac=\551.jar 
+2020-Apr-23 Thu 12:17:20.759 INFO  [pool-3-thread-2] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - Download complete for parent bot repository:///Automation%20Anywhere/Bots/CreateFile?fileId=551&workspace=PUBLIC
+2020-Apr-23 Thu 12:17:20.761 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - deployment message has been modified to contain local cached jars
+2020-Apr-23 Thu 12:17:20.779 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - embedded resources: 
+2020-Apr-23 Thu 12:17:20.780 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - Logging into the system with domain infocert and username yyi9384
+2020-Apr-23 Thu 12:17:20.784 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - Check for existing process yyi9384_INTERACTIVE
+2020-Apr-23 Thu 12:17:20.784 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Received message eventData {
+  id: "16add82c-637f-4226-b57a-2b97816722e6"
+  bot_deployment_stage {
+    stage_total: 3
+    stage_current: 3
+    stage_name: AUTO_LOGIN
+    progress_nondeterministic: true
+  }
+}
+ to send back to CR
+2020-Apr-23 Thu 12:17:20.790 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Message operationEvent {
+  eventData {
+    id: "16add82c-637f-4226-b57a-2b97816722e6"
+    bot_deployment_stage {
+      stage_total: 3
+      stage_current: 3
+      stage_name: AUTO_LOGIN
+      progress_nondeterministic: true
+    }
+  }
+}
+ sent to CR successfully.
+2020-Apr-23 Thu 12:17:20.791 INFO  [pool-12-thread-1] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - Message successfully processed for topic NodeResponse
+2020-Apr-23 Thu 12:17:20.889 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.windowsprocess.WindowsUtil - retrying getting active console session ... (attempt 0)
+2020-Apr-23 Thu 12:17:20.921 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsAutoLoginServiceImpl - User is already logged into the console ...
+2020-Apr-23 Thu 12:17:20.922 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsAutoLoginServiceImpl - Session is unlocked so proceeding with deployment...
+2020-Apr-23 Thu 12:17:20.922 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - registering machine lock listener for session 3
+2020-Apr-23 Thu 12:17:20.924 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - User yyi9384 is logged into console for deployment
+2020-Apr-23 Thu 12:17:20.925 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - Creating a new process yyi9384_INTERACTIVE
+2020-Apr-23 Thu 12:17:20.928 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.windowsprocess.WindowsUtil - retrying getting user yyi9384 domain infocert console session ... (attempt 0)
+2020-Apr-23 Thu 12:17:20.930 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.windowsprocess.WindowsProcessLauncher - Session id 3 of the logged in user.
+2020-Apr-23 Thu 12:17:20.933 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.windowsprocess.WindowsProcessLauncher - logged in user token native@0xca0
+2020-Apr-23 Thu 12:17:20.934 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.windowsprocess.WindowsProcessLauncher - Executing command "C:\Program Files\Automation Anywhere\Bot Agent\jre\bin\java" "-Djava.library.path=C:\Program Files\Automation Anywhere\Bot Agent\jre\bin" -Duser.name=yyi9384 -Dinteractive=false -Didentifier=f663e1ae-1e94-472b-8971-53c80b75f780 "-Dext.properties.dir=C:\Program Files\Automation Anywhere\Bot Agent\config" "-Dlog4j.configurationFile=C:\Program Files\Automation Anywhere\Bot Agent\config\botlauncher-logging.xml" -Dbot.agent.ui=true -jar "C:\Program Files\Automation Anywhere\Bot Agent\bot-launcher.jar" in the user space
+2020-Apr-23 Thu 12:17:21.063 WARN  [pool-8-thread-1] - net.openhft.chronicle.threads.Pauser - Using Pauser.sleepy() as not enough processors, have 2, needs 8+
+2020-Apr-23 Thu 12:17:21.266 INFO  [pool-30-thread-3] - com.automationanywhere.asynchronous.messaging.ChronicleQueueAsyncImpl - Starting reader framework
+2020-Apr-23 Thu 12:17:21.271 INFO  [pool-30-thread-2] - com.automationanywhere.asynchronous.messaging.ChronicleQueueAsyncImpl - Starting reader response
+2020-Apr-23 Thu 12:17:21.283 INFO  [pool-30-thread-1] - com.automationanywhere.asynchronous.messaging.ChronicleQueueAsyncImpl - Starting reader request
+2020-Apr-23 Thu 12:17:21.316 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - Created process ID 10788
+2020-Apr-23 Thu 12:17:21.317 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - Successfully unlocked the user session lock yyi9384_INTERACTIVE
+2020-Apr-23 Thu 12:17:21.318 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - Successfully started or got into the existing user session
+2020-Apr-23 Thu 12:17:21.386 WARN  [pool-8-thread-1] - net.openhft.chronicle.wire.WireMarshaller - Found this$0, in class com.automationanywhere.asynchronous.messaging.ChronicleQueueAsyncImpl$Payload which will be ignored!
+2020-Apr-23 Thu 12:17:21.392 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - Successfully sent message to DEPLOYMENT_START the INTERACTIVE deployment 16add82c-637f-4226-b57a-2b97816722e6
+2020-Apr-23 Thu 12:17:21.393 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.ResiliencyHandler - Start monitoring 16add82c-637f-4226-b57a-2b97816722e6 
+2020-Apr-23 Thu 12:17:21.394 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - beacon listener registered for topic BEACON
+2020-Apr-23 Thu 12:17:21.398 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - Status listener registered for topic DEPLOYMENT_RESPONSE
+2020-Apr-23 Thu 12:17:21.398 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - Status listener registered for topic DEPLOYMENT_STATUS
+2020-Apr-23 Thu 12:17:21.398 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - WLM_EVENT receive hook up
+2020-Apr-23 Thu 12:17:21.399 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - Debug Status listener registered for topic DEBUG_STATUS
+2020-Apr-23 Thu 12:17:21.399 INFO  [pool-8-thread-1] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - Message successfully processed for topic DEPLOYMENT
+2020-Apr-23 Thu 12:17:22.949 WARN  [Thread-24] - com.automationanywhere.log.services.Collector - Bot_Launcher.log has been rotated !!
+2020-Apr-23 Thu 12:17:24.038 INFO  [pool-30-thread-3] - com.automationanywhere.nodemanager.service.impl.message.handlers.ResiliencyHandler - User session check in f663e1ae-1e94-472b-8971-53c80b75f780 
+2020-Apr-23 Thu 12:17:24.809 INFO  [pool-30-thread-3] - com.automationanywhere.nodemanager.service.impl.message.handlers.ResiliencyHandler - User session check in f663e1ae-1e94-472b-8971-53c80b75f780 
+2020-Apr-23 Thu 12:17:26.890 INFO  [pool-30-thread-3] - com.automationanywhere.nodemanager.service.impl.message.handlers.ResiliencyHandler - User session check in f663e1ae-1e94-472b-8971-53c80b75f780 
+2020-Apr-23 Thu 12:17:28.820 INFO  [pool-30-thread-3] - com.automationanywhere.nodemanager.service.impl.message.handlers.ResiliencyHandler - User session check in f663e1ae-1e94-472b-8971-53c80b75f780 
+2020-Apr-23 Thu 12:17:29.987 DEBUG [pool-30-thread-2] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - Status message received ExecutionResponse{executionEvent=CONNECT, jobExecutionResponse=JobExecutionResponse{deviceName='null', automationName='null', jobName='null', jobFilePath='null', jobType=TASK, startDateTime=2020-04-23T12:17:29.171308+02:00[Europe/Berlin], endDateTime=null, command='', jobExecutionStatus=STARTED, progress=0, scheduleId=null, userId=null, deviceId=null, id='16add82c-637f-4226-b57a-2b97816722e6', currentLine=0, totalLines=1, jobId=null, tenantId=null, modifiedBy=null, createdBy=null, modifiedOn=2020-04-23T12:17:29.298327100+02:00[Europe/Berlin], deploymentId='16add82c-637f-4226-b57a-2b97816722e6', queueName='null', queueId=null, rdpEnabled=false, message='', canManage=false, username='null', source='null', currentNodeId=''}}
+2020-Apr-23 Thu 12:17:30.081 DEBUG [pool-30-thread-2] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - Status message received ExecutionResponse{executionEvent=UPDATE, jobExecutionResponse=JobExecutionResponse{deviceName='null', automationName='null', jobName='null', jobFilePath='null', jobType=TASK, startDateTime=2020-04-23T12:17:29.171308+02:00[Europe/Berlin], endDateTime=null, command='createFile', jobExecutionStatus=INPROGRESS, progress=0, scheduleId=null, userId=null, deviceId=null, id='16add82c-637f-4226-b57a-2b97816722e6', currentLine=1, totalLines=1, jobId=null, tenantId=null, modifiedBy=null, createdBy=null, modifiedOn=2020-04-23T12:17:29.392342200+02:00[Europe/Berlin], deploymentId='16add82c-637f-4226-b57a-2b97816722e6', queueName='null', queueId=null, rdpEnabled=false, message='', canManage=false, username='null', source='null', currentNodeId='eef656b1-5c31-473d-9592-c6f06fcb1381'}}
+2020-Apr-23 Thu 12:17:30.082 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Received message eventData {
+  id: "16add82c-637f-4226-b57a-2b97816722e6"
+  bot_execution {
+    start_date_time {
+      seconds: 1587637049
+      nanos: 171308000
+    }
+    end_date_time {
+    }
+    progress {
+      total: 1
+    }
+    status_type: STARTED
+    bot_uri: "repository:///Automation%20Anywhere/Bots/CreateFile?fileId=551&workspace=PUBLIC"
+  }
+}
+ to send back to CR
+2020-Apr-23 Thu 12:17:30.099 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Message operationEvent {
+  eventData {
+    id: "16add82c-637f-4226-b57a-2b97816722e6"
+    bot_execution {
+      start_date_time {
+        seconds: 1587637049
+        nanos: 171308000
+      }
+      end_date_time {
+      }
+      progress {
+        total: 1
+      }
+      status_type: STARTED
+      bot_uri: "repository:///Automation%20Anywhere/Bots/CreateFile?fileId=551&workspace=PUBLIC"
+    }
+  }
+}
+ sent to CR successfully.
+2020-Apr-23 Thu 12:17:30.099 INFO  [pool-12-thread-1] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - Message successfully processed for topic NodeResponse
+2020-Apr-23 Thu 12:17:30.143 DEBUG [pool-30-thread-2] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - Status message received ExecutionResponse{executionEvent=REMOVE, jobExecutionResponse=JobExecutionResponse{deviceName='null', automationName='null', jobName='null', jobFilePath='null', jobType=TASK, startDateTime=2020-04-23T12:17:29.171308+02:00[Europe/Berlin], endDateTime=2020-04-23T12:17:29.425344500+02:00[Europe/Berlin], command='', jobExecutionStatus=COMPLETED, progress=100, scheduleId=null, userId=null, deviceId=null, id='16add82c-637f-4226-b57a-2b97816722e6', currentLine=1, totalLines=1, jobId=null, tenantId=null, modifiedBy=null, createdBy=null, modifiedOn=2020-04-23T12:17:29.425344500+02:00[Europe/Berlin], deploymentId='16add82c-637f-4226-b57a-2b97816722e6', queueName='null', queueId=null, rdpEnabled=false, message='', canManage=false, username='null', source='null', currentNodeId=''}}
+2020-Apr-23 Thu 12:17:30.145 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Received message eventData {
+  id: "16add82c-637f-4226-b57a-2b97816722e6"
+  bot_execution {
+    start_date_time {
+      seconds: 1587637049
+      nanos: 171308000
+    }
+    end_date_time {
+    }
+    progress {
+      name: "createFile"
+      current: 1
+      total: 1
+    }
+    current_node_id: "eef656b1-5c31-473d-9592-c6f06fcb1381"
+    status_type: INPROGRESS
+    bot_uri: "repository:///Automation%20Anywhere/Bots/CreateFile?fileId=551&workspace=PUBLIC"
+  }
+}
+ to send back to CR
+2020-Apr-23 Thu 12:17:30.148 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Message operationEvent {
+  eventData {
+    id: "16add82c-637f-4226-b57a-2b97816722e6"
+    bot_execution {
+      start_date_time {
+        seconds: 1587637049
+        nanos: 171308000
+      }
+      end_date_time {
+      }
+      progress {
+        name: "createFile"
+        current: 1
+        total: 1
+      }
+      current_node_id: "eef656b1-5c31-473d-9592-c6f06fcb1381"
+      status_type: INPROGRESS
+      bot_uri: "repository:///Automation%20Anywhere/Bots/CreateFile?fileId=551&workspace=PUBLIC"
+    }
+  }
+}
+ sent to CR successfully.
+2020-Apr-23 Thu 12:17:30.151 INFO  [pool-12-thread-1] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - Message successfully processed for topic NodeResponse
+2020-Apr-23 Thu 12:17:30.209 INFO  [pool-30-thread-2] - com.automationanywhere.nodemanager.service.impl.message.handlers.ResiliencyHandler - Removing execution state for deployment 16add82c-637f-4226-b57a-2b97816722e6 
+2020-Apr-23 Thu 12:17:30.209 INFO  [pool-30-thread-2] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - Removed references for deployment 16add82c-637f-4226-b57a-2b97816722e6
+2020-Apr-23 Thu 12:17:30.211 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Received message eventData {
+  id: "16add82c-637f-4226-b57a-2b97816722e6"
+  bot_execution {
+    start_date_time {
+      seconds: 1587637049
+      nanos: 171308000
+    }
+    end_date_time {
+      seconds: 1587637049
+      nanos: 425344500
+    }
+    progress {
+      current: 1
+      total: 1
+      percentage: 100
+    }
+    status_type: COMPLETED
+    bot_uri: "repository:///Automation%20Anywhere/Bots/CreateFile?fileId=551&workspace=PUBLIC"
+  }
+}
+ to send back to CR
+2020-Apr-23 Thu 12:17:30.214 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Message operationEvent {
+  eventData {
+    id: "16add82c-637f-4226-b57a-2b97816722e6"
+    bot_execution {
+      start_date_time {
+        seconds: 1587637049
+        nanos: 171308000
+      }
+      end_date_time {
+        seconds: 1587637049
+        nanos: 425344500
+      }
+      progress {
+        current: 1
+        total: 1
+        percentage: 100
+      }
+      status_type: COMPLETED
+      bot_uri: "repository:///Automation%20Anywhere/Bots/CreateFile?fileId=551&workspace=PUBLIC"
+    }
+  }
+}
+ sent to CR successfully.
+2020-Apr-23 Thu 12:17:30.215 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.ResiliencyHandler - Removing execution state for deployment 16add82c-637f-4226-b57a-2b97816722e6 
+2020-Apr-23 Thu 12:17:30.277 INFO  [pool-12-thread-1] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - Message successfully processed for topic NodeResponse
+2020-Apr-23 Thu 12:17:30.777 INFO  [pool-30-thread-3] - com.automationanywhere.nodemanager.service.impl.message.handlers.ResiliencyHandler - User session check in f663e1ae-1e94-472b-8971-53c80b75f780 
+2020-Apr-23 Thu 12:17:30.826 INFO  [pool-30-thread-2] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - Received execution complete message from bot launcher.
+2020-Apr-23 Thu 12:17:30.826 INFO  [pool-30-thread-2] - com.automationanywhere.nodemanager.service.impl.message.handlers.ResiliencyHandler - Trying to check close {} User session.
+2020-Apr-23 Thu 12:17:30.827 INFO  [pool-30-thread-2] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - Successfully obtained lock for clean up.
+2020-Apr-23 Thu 12:17:30.827 INFO  [pool-30-thread-2] - com.automationanywhere.nodemanager.service.BotSessionService - Sending shutdown message to topic DEPLOYMENT_SHUTDOWN
+2020-Apr-23 Thu 12:17:30.830 WARN  [pool-30-thread-2] - net.openhft.chronicle.queue.impl.single.SingleChronicleQueueExcerpts$StoreAppender - Closing store append for C:\Users\yyi9384\AppData\Local\AutomationAnywhere\messaging\f663e1ae-1e94-472b-8971-53c80b75f780\request
+2020-Apr-23 Thu 12:17:30.832 WARN  [pool-30-thread-2] - net.openhft.chronicle.queue.impl.single.SingleChronicleQueueExcerpts$StoreAppender - Closing store append for C:\Users\yyi9384\AppData\Local\AutomationAnywhere\messaging\f663e1ae-1e94-472b-8971-53c80b75f780\request
+2020-Apr-23 Thu 12:17:30.834 WARN  [pool-30-thread-2] - net.openhft.chronicle.queue.impl.single.SingleChronicleQueueExcerpts$StoreAppender - Closing store append for C:\Users\yyi9384\AppData\Local\AutomationAnywhere\messaging\f663e1ae-1e94-472b-8971-53c80b75f780\response
+2020-Apr-23 Thu 12:17:30.838 WARN  [pool-30-thread-2] - net.openhft.chronicle.queue.impl.single.SingleChronicleQueueExcerpts$StoreAppender - Closing store append for C:\Users\yyi9384\AppData\Local\AutomationAnywhere\messaging\f663e1ae-1e94-472b-8971-53c80b75f780\framework
+2020-Apr-23 Thu 12:17:30.838 INFO  [pool-30-thread-1] - com.automationanywhere.asynchronous.messaging.ChronicleQueueAsyncImpl - Stopping reader request
+2020-Apr-23 Thu 12:17:30.839 INFO  [pool-30-thread-3] - com.automationanywhere.asynchronous.messaging.ChronicleQueueAsyncImpl - Stopping reader framework
+2020-Apr-23 Thu 12:17:30.840 INFO  [pool-30-thread-2] - com.automationanywhere.nodemanager.service.windowsprocess.WindowsUtil - retrying getting active console session ... (attempt 0)
+2020-Apr-23 Thu 12:17:30.840 INFO  [pool-30-thread-2] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - unregistering  machine lock listener for session 3
+2020-Apr-23 Thu 12:17:30.841 INFO  [pool-30-thread-2] - com.automationanywhere.nodemanager.service.windowsprocess.WindowsUtil - retrying getting active console session ... (attempt 0)
+2020-Apr-23 Thu 12:17:30.842 INFO  [pool-30-thread-2] - com.automationanywhere.nodemanager.service.impl.WindowsAutoLoginServiceImpl - User session yyi9384 cleaned up
+2020-Apr-23 Thu 12:17:30.842 INFO  [pool-30-thread-2] - com.automationanywhere.nodemanager.service.impl.WindowsAutoLoginServiceImpl - no log out performed for user yyi9384
+2020-Apr-23 Thu 12:17:30.842 INFO  [pool-30-thread-2] - com.automationanywhere.nodemanager.service.impl.message.handlers.ResiliencyHandler - User session check close f663e1ae-1e94-472b-8971-53c80b75f780 Successful. We will stop monitoring all the activities for this user session.
+2020-Apr-23 Thu 12:17:30.842 INFO  [pool-30-thread-2] - com.automationanywhere.asynchronous.messaging.ChronicleQueueAsyncImpl - Stopping reader response
+2020-Apr-23 Thu 12:18:55.529 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Disconnected: 3
+2020-Apr-23 Thu 12:18:56.180 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Connected: 4
+2020-Apr-23 Thu 12:18:56.550 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Machine Locked: 3
+2020-Apr-23 Thu 12:18:57.895 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Machine Unlocked: 3
+2020-Apr-23 Thu 12:19:10.642 DEBUG [NamedPipeServer] - com.automationanywhere.nodemanager.Configuration - Working directory C:\Windows\system32\config\systemprofile\AppData\Local 
+2020-Apr-23 Thu 12:19:10.643 DEBUG [NamedPipeMessageProcessor-1] - com.automationanywhere.nodemanager.service.impl.message.processors.NamedPipeMessageProcessor - NamedPipeMessageProcessor-1 started
+2020-Apr-23 Thu 12:19:10.651 DEBUG [NamedPipeMessageProcessor-1] - com.automationanywhere.nodemanager.service.impl.message.processors.NamedPipeMessageProcessor - 'Does proxy support authentication?' request issued for URL - https://urldefense.com/v3/__https://aa-saleseng-euw1.my.automationanywhere.digital__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYION9wLtAQ$  
+2020-Apr-23 Thu 12:19:10.655 DEBUG [NamedPipeMessageProcessor-1] - com.automationanywhere.nodemanager.service.impl.message.processors.NamedPipeMessageProcessor - Proxy is not configured on this device
+2020-Apr-23 Thu 12:19:10.655 DEBUG [NamedPipeMessageProcessor-1] - com.automationanywhere.nodemanager.service.impl.message.processors.NamedPipeMessageProcessor - Does proxy support authentication : false
+2020-Apr-23 Thu 12:19:10.655 DEBUG [NamedPipeMessageProcessor-1] - com.automationanywhere.nodemanager.service.impl.message.processors.NamedPipeMessageProcessor - Are the proxy credentials configured : false
+2020-Apr-23 Thu 12:19:10.655 DEBUG [NamedPipeMessageProcessor-1] - com.automationanywhere.nodemanager.service.impl.message.processors.NamedPipeMessageProcessor - Fetching the device id from the registration properties.
+2020-Apr-23 Thu 12:19:10.655 DEBUG [NamedPipeMessageProcessor-1] - com.automationanywhere.nodemanager.service.impl.message.processors.NamedPipeMessageProcessor - Device id: 34
+2020-Apr-23 Thu 12:19:10.672 DEBUG [NamedPipeMessageProcessor-1] - com.automationanywhere.nodemanager.service.impl.message.processors.NamedPipeMessageProcessor - Client Disconnected: failed: hr=109 - 0x6d
+2020-Apr-23 Thu 12:19:10.673 DEBUG [NamedPipeMessageProcessor-1] - com.automationanywhere.nodemanager.service.impl.message.processors.NamedPipeMessageProcessor - NamedPipeMessageProcessor-1 finished
+2020-Apr-23 Thu 12:23:00.878 DEBUG [WebSocketClient@1939869193-38] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Received websocket message from CR
+2020-Apr-23 Thu 12:23:00.879 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - schedule automation id: 0
+2020-Apr-23 Thu 12:23:00.891 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.ProxyCredentialServiceImpl - Fetching proxy credentials for URL - https://urldefense.com/v3/__http://infocert55783.aaisalesdemo.com__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYINbcdSizQ$  and key - aDh7+guSzSoSs7NAsVYSsLFiTiIh7Asr3Zht3U5DWA=
+2020-Apr-23 Thu 12:23:00.892 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.ProxyCredentialServiceImpl - Fetching proxy credentials succeeded for URL - https://urldefense.com/v3/__http://infocert55783.aaisalesdemo.com__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYINbcdSizQ$ 
+2020-Apr-23 Thu 12:23:00.894 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ##retrieve content length: deployCommand.getBot().getBot().getDownloadUrl(): https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/repository/files/packaging/Default/551.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIOxXNjwbw$ 
+2020-Apr-23 Thu 12:23:00.894 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ##retrieve content length: deployCommand.getBot().getCommandDependencies(i): https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/packages/artifacts/package/bot-command-file-2.0.0-20200131-090018.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIO5RP8s7A$ 
+2020-Apr-23 Thu 12:23:00.895 INFO  [pool-3-thread-3] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - retrieving file cache info https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/repository/files/packaging/Default/551.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIOxXNjwbw$ ... (attempt 0)
+2020-Apr-23 Thu 12:23:00.897 INFO  [Thread-33] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - retrieving file cache info https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/packages/artifacts/package/bot-command-file-2.0.0-20200131-090018.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIO5RP8s7A$ ... (attempt 0)
+2020-Apr-23 Thu 12:23:01.015 DEBUG [Thread-33] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ##getContentLength: content length:0, url:https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/packages/artifacts/package/bot-command-file-2.0.0-20200131-090018.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIO5RP8s7A$ 
+2020-Apr-23 Thu 12:23:01.019 DEBUG [pool-3-thread-3] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ##getContentLength: content length:0, url:https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/repository/files/packaging/Default/551.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIOxXNjwbw$ 
+2020-Apr-23 Thu 12:23:01.082 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - total content length for download: 0
+2020-Apr-23 Thu 12:23:01.082 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - Skipping downloads for https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/repository/files/packaging/Default/551.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIOxXNjwbw$ , https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/packages/artifacts/package/bot-command-file-2.0.0-20200131-090018.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIO5RP8s7A$  , as already found in cache
+2020-Apr-23 Thu 12:23:01.082 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - Downloading items 0 from repo
+2020-Apr-23 Thu 12:23:01.083 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - deployment message has been modified to contain local cached jars
+2020-Apr-23 Thu 12:23:01.088 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - embedded resources: 
+2020-Apr-23 Thu 12:23:01.088 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - Logging into the system with domain infocert and username yyi9384
+2020-Apr-23 Thu 12:23:01.088 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - Check for existing process yyi9384_INTERACTIVE
+2020-Apr-23 Thu 12:23:01.090 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Received message eventData {
+  id: "977cf34c-9688-47da-bc5e-f23a1a13eb0f"
+  bot_deployment_stage {
+    stage_total: 3
+    stage_current: 3
+    stage_name: AUTO_LOGIN
+    progress_nondeterministic: true
+  }
+}
+ to send back to CR
+2020-Apr-23 Thu 12:23:01.099 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Message operationEvent {
+  eventData {
+    id: "977cf34c-9688-47da-bc5e-f23a1a13eb0f"
+    bot_deployment_stage {
+      stage_total: 3
+      stage_current: 3
+      stage_name: AUTO_LOGIN
+      progress_nondeterministic: true
+    }
+  }
+}
+ sent to CR successfully.
+2020-Apr-23 Thu 12:23:01.100 INFO  [pool-12-thread-1] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - Message successfully processed for topic NodeResponse
+2020-Apr-23 Thu 12:23:01.186 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.windowsprocess.WindowsUtil - retrying getting active console session ... (attempt 0)
+2020-Apr-23 Thu 12:23:01.191 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsAutoLoginServiceImpl - WindowsAutoLoginServiceImpl - login - userName - yyi9384, domain - infocert
+2020-Apr-23 Thu 12:23:01.195 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsAutoLoginServiceImpl - WindowsAutoLoginServiceImpl - login - Ctrl+Alt+Del Successful
+2020-Apr-23 Thu 12:23:01.195 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.windowsprocess.WindowsUtil - retrying getting active console session ... (attempt 0)
+2020-Apr-23 Thu 12:23:02.897 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Machine Locked: 3
+2020-Apr-23 Thu 12:23:03.166 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Disconnected: 4
+2020-Apr-23 Thu 12:23:03.586 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Connected: 3
+2020-Apr-23 Thu 12:23:03.777 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Machine Unlocked: 3
+2020-Apr-23 Thu 12:23:11.286 ERROR [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsAutoLoginServiceImpl - User yyi9384 logged in failed.
+2020-Apr-23 Thu 12:23:11.286 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - Successfully unlocked the user session lock yyi9384_INTERACTIVE
+2020-Apr-23 Thu 12:23:11.286 INFO  [pool-8-thread-1] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - Message successfully processed for topic DEPLOYMENT
+2020-Apr-23 Thu 12:26:31.346 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Disconnected: 3
+2020-Apr-23 Thu 12:26:31.723 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Connected: 4
+2020-Apr-23 Thu 12:26:32.318 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Machine Locked: 3
+2020-Apr-23 Thu 12:26:33.844 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Machine Unlocked: 3
+2020-Apr-23 Thu 12:28:33.251 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Disconnected: 4
+2020-Apr-23 Thu 12:28:33.461 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Connected: 5
+2020-Apr-23 Thu 12:28:48.405 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Disconnected: 5
+2020-Apr-23 Thu 12:28:48.670 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Machine Locked: 3
+2020-Apr-23 Thu 12:28:49.009 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Connected: 3
+2020-Apr-23 Thu 12:28:49.177 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Machine Unlocked: 3
+2020-Apr-23 Thu 12:29:43.273 DEBUG [WebSocketClient@1939869193-38] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Received websocket message from CR
+2020-Apr-23 Thu 12:29:43.273 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - schedule automation id: 0
+2020-Apr-23 Thu 12:29:43.289 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.ProxyCredentialServiceImpl - Fetching proxy credentials for URL - https://urldefense.com/v3/__http://infocert55783.aaisalesdemo.com__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYINbcdSizQ$  and key - aDh7+guSzSoSs7NAsVYSsLFiTiIh7Asr3Zht3U5DWA=
+2020-Apr-23 Thu 12:29:43.289 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.ProxyCredentialServiceImpl - Fetching proxy credentials succeeded for URL - https://urldefense.com/v3/__http://infocert55783.aaisalesdemo.com__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYINbcdSizQ$ 
+2020-Apr-23 Thu 12:29:43.292 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ##retrieve content length: deployCommand.getBot().getBot().getDownloadUrl(): https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/repository/files/packaging/Default/551.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIOxXNjwbw$ 
+2020-Apr-23 Thu 12:29:43.292 INFO  [pool-3-thread-4] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - retrieving file cache info https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/repository/files/packaging/Default/551.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIOxXNjwbw$ ... (attempt 0)
+2020-Apr-23 Thu 12:29:43.292 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ##retrieve content length: deployCommand.getBot().getCommandDependencies(i): https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/packages/artifacts/package/bot-command-file-2.0.0-20200131-090018.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIO5RP8s7A$ 
+2020-Apr-23 Thu 12:29:43.293 INFO  [Thread-34] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - retrieving file cache info https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/packages/artifacts/package/bot-command-file-2.0.0-20200131-090018.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIO5RP8s7A$ ... (attempt 0)
+2020-Apr-23 Thu 12:29:43.380 DEBUG [Thread-34] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ##getContentLength: content length:0, url:https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/packages/artifacts/package/bot-command-file-2.0.0-20200131-090018.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIO5RP8s7A$ 
+2020-Apr-23 Thu 12:29:43.385 DEBUG [pool-3-thread-4] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - ##getContentLength: content length:0, url:https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/repository/files/packaging/Default/551.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIOxXNjwbw$ 
+2020-Apr-23 Thu 12:29:43.484 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - total content length for download: 0
+2020-Apr-23 Thu 12:29:43.485 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - Skipping downloads for https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/repository/files/packaging/Default/551.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIOxXNjwbw$ , https://urldefense.com/v3/__http://Infocert55783.aaisalesdemo.com:80/v2/packages/artifacts/package/bot-command-file-2.0.0-20200131-090018.jar__;!!BHlfX_zbyOAjqHI!hAu0DZiD7Sfi-xKhRqbkjHuuz68_UaG5JgNb3tET0-OjDwm41-h1_HiWB4_h79PtOhBjYIO5RP8s7A$  , as already found in cache
+2020-Apr-23 Thu 12:29:43.485 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - Downloading items 0 from repo
+2020-Apr-23 Thu 12:29:43.487 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - deployment message has been modified to contain local cached jars
+2020-Apr-23 Thu 12:29:43.492 DEBUG [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.GlobalCacheServiceImpl - embedded resources: 
+2020-Apr-23 Thu 12:29:43.492 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - Logging into the system with domain infocert and username yyi9384
+2020-Apr-23 Thu 12:29:43.493 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - Check for existing process yyi9384_INTERACTIVE
+2020-Apr-23 Thu 12:29:43.493 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - There is an existing active user session yyi9384_INTERACTIVE and successfully obtained the 
+2020-Apr-23 Thu 12:29:43.493 ERROR [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - Auto-login credentials may not be set or may be incorrect java.lang.NullPointerException: null
+	at com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl.getBotSession(WindowsBotSessionServiceImpl.java:78) ~[node-manager.jar:?]
+	at com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl.createBotSession(WindowsBotSessionServiceImpl.java:45) ~[node-manager.jar:?]
+	at com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler.process(DeploymentHandler.java:99) ~[node-manager.jar:?]
+	at com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl$ListenerExecutor.lambda$process$0(InMemoryAsyncImpl.java:58) ~[node-manager.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:?]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+
+2020-Apr-23 Thu 12:29:43.505 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl - Successfully unlocked the user session lock yyi9384_INTERACTIVE
+2020-Apr-23 Thu 12:29:43.505 ERROR [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler - Unable to process bot command successfully java.lang.RuntimeException: {"message":"Either your username or your password is incorrect","details":"This may be due to a misspelling, your Caps Lock may be on, the password may have expired, or the domain may be required.","correctiveAction":"To continue, please retype your username and password.","code":"unable.to.login"}
+	at com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl.getBotSession(WindowsBotSessionServiceImpl.java:117) ~[node-manager.jar:?]
+	at com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl.createBotSession(WindowsBotSessionServiceImpl.java:45) ~[node-manager.jar:?]
+	at com.automationanywhere.nodemanager.service.impl.message.handlers.DeploymentHandler.process(DeploymentHandler.java:99) ~[node-manager.jar:?]
+	at com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl$ListenerExecutor.lambda$process$0(InMemoryAsyncImpl.java:58) ~[node-manager.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:?]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:?]
+	at java.lang.Thread.run(Unknown Source) [?:?]
+Caused by: java.lang.NullPointerException
+	at com.automationanywhere.nodemanager.service.impl.WindowsBotSessionServiceImpl.getBotSession(WindowsBotSessionServiceImpl.java:78) ~[node-manager.jar:?]
+	... 8 more
+
+2020-Apr-23 Thu 12:29:43.508 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.ResiliencyHandler - Sending error message {"message":"Either your username or your password is incorrect","details":"This may be due to a misspelling, your Caps Lock may be on, the password may have expired, or the domain may be required.","correctiveAction":"To continue, please retype your username and password.","code":"unable.to.login"} for deployment 24252450-3b59-4bbb-b5e2-e4e6822112b7
+2020-Apr-23 Thu 12:29:43.523 INFO  [pool-8-thread-1] - com.automationanywhere.nodemanager.service.impl.message.handlers.ResiliencyHandler - Sent failure message to CR for deployment 24252450-3b59-4bbb-b5e2-e4e6822112b7
+2020-Apr-23 Thu 12:29:43.523 INFO  [pool-8-thread-1] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - Message successfully processed for topic DEPLOYMENT
+2020-Apr-23 Thu 12:29:43.523 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Received message eventData {
+  id: "24252450-3b59-4bbb-b5e2-e4e6822112b7"
+  bot_execution {
+    start_date_time {
+      seconds: 1587637783
+      nanos: 522679100
+    }
+    end_date_time {
+      seconds: 1587637783
+      nanos: 522679100
+    }
+    progress {
+    }
+    message: "{\"message\":\"Either your username or your password is incorrect\",\"details\":\"This may be due to a misspelling, your Caps Lock may be on, the password may have expired, or the domain may be required.\",\"correctiveAction\":\"To continue, please retype your username and password.\",\"code\":\"unable.to.login\"}"
+    status_type: DEPLOY_FAILED
+  }
+}
+ to send back to CR
+2020-Apr-23 Thu 12:29:43.526 INFO  [pool-12-thread-1] - com.automationanywhere.nodemanager.service.impl.NodeMessagingServiceImpl - Message operationEvent {
+  eventData {
+    id: "24252450-3b59-4bbb-b5e2-e4e6822112b7"
+    bot_execution {
+      start_date_time {
+        seconds: 1587637783
+        nanos: 522679100
+      }
+      end_date_time {
+        seconds: 1587637783
+        nanos: 522679100
+      }
+      progress {
+      }
+      message: "{\"message\":\"Either your username or your password is incorrect\",\"details\":\"This may be due to a misspelling, your Caps Lock may be on, the password may have expired, or the domain may be required.\",\"correctiveAction\":\"To continue, please retype your username and password.\",\"code\":\"unable.to.login\"}"
+      status_type: DEPLOY_FAILED
+    }
+  }
+}
+ sent to CR successfully.
+2020-Apr-23 Thu 12:29:43.528 INFO  [pool-12-thread-1] - com.automationanywhere.asynchronous.messaging.InMemoryAsyncImpl - Message successfully processed for topic NodeResponse
+2020-Apr-23 Thu 12:30:46.804 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Disconnected: 3
+2020-Apr-23 Thu 12:30:47.377 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Console Connected: 4
+2020-Apr-23 Thu 12:30:47.703 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Machine Locked: 3
+2020-Apr-23 Thu 12:30:49.366 INFO  [pool-6-thread-1] - com.automationanywhere.nodemanager.service.impl.WindowsEventServiceImpl - Machine Unlocked: 3
