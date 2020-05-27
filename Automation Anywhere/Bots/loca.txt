@@ -1,0 +1,33 @@
+ten local env
+
+developed on azure vm > developed  > depoloyed to local. Inside the premises.
+rdp session should. active user to rdp
+on prem 
+different subnets 
+
+
+bot runner win 10 desktop
+same subnet as bot cr
+
+anicdotal
+
+
+A = cr azure
+b= bot runner  
+c = laptop employee log  vpn in
+differnt subnets
+
+UAT Run
+
+session to console 
+
+
+when user session is not on the  console how 
+
+  support leagl discliamer s not supported 
+
+ongoing session + rdp session
+
+different sessions user 
+
+
