@@ -1,0 +1,3 @@
+﻿id,created_by,created_on,tenant_id,updated_by,updated_on,version,status,alias,email,locale,user_name,description,is_deleted,fail_login_attempts,disabled,user_type,tenant_uuid
+1,0,2020-06-17 09:43:33.150,1,0,2020-06-17 09:43:33.257,16,NULL,NULL,NULL,NULL,admin,,0,0,0,HUMAN,00C2E3B5-B0BB-458A-A782-5032B62BC461
+2,1,2020-06-17 11:52:29.283,1,1,2020-06-17 12:32:54.550,10,NULL,NULL,NULL,NULL,bc,,0,0,0,HUMAN,00C2E3B5-B0BB-458A-A782-5032B62BC461
