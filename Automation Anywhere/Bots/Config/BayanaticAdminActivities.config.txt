@@ -1,0 +1,2 @@
+vBayanatiAdminURL=https://fahr-trn.mof.gov.ae/
+vBayanatiFromAddress=suppuluri@squareonemea.com
